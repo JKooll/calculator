@@ -1,6 +1,6 @@
 # calculator
 
-> 使用mpvue开发的MacOS/ios风格的微信小程序。
+> 使用mpvue开发的MacOS/ios风格的计算器微信小程序。
 
 ## Build Setup
 
